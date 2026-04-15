@@ -74,4 +74,4 @@ Platform LMS dengan **adaptive learning engine** yang menggunakan Item Response 
 
 **Tech stack rekomendasi:** Next.js (FE), NestJS (BE), PostgreSQL, Redis, Python/FastAPI (AI engine), Docker, Kubernetes.
 **Kompleksitas:** Hard
-**Role:** full Stack Ai Developer
+**Role:** full Stack Developer
